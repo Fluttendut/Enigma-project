@@ -8,7 +8,6 @@ public class EnigmaProject
         EnigmaProject prg = new EnigmaProject();
         prg.input();
     }
-        //I have done the methods two different ways. I would like to hear what method you prefer, and why.
         String alphabet = " ABCDEFGHIJKLMNOPQRSTUVWXYZÆØÅ";
 
         int encrypt(char characterToEncrypt){
